@@ -1,0 +1,15 @@
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\bin\Debug\TBNSMB Visual Novel Test Stuff.exe.config
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\bin\Debug\TBNSMB Visual Novel Test Stuff.exe
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\bin\Debug\TBNSMB Visual Novel Test Stuff.pdb
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\obj\Debug\TBNSMB Visual Novel Test Stuff.csprojAssemblyReference.cache
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\obj\Debug\TBNSMB_Visual_Novel_Test_Stuff.Form1.resources
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\obj\Debug\TBNSMB_Visual_Novel_Test_Stuff.Properties.Resources.resources
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\obj\Debug\TBNSMB Visual Novel Test Stuff.csproj.GenerateResource.cache
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\obj\Debug\TBNSMB Visual Novel Test Stuff.csproj.CoreCompileInputs.cache
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\obj\Debug\TBNSMB Visual Novel Test Stuff.exe
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\obj\Debug\TBNSMB Visual Novel Test Stuff.pdb
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\bin\Debug\Interop.WMPLib.dll
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\bin\Debug\AxInterop.WMPLib.dll
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\obj\Debug\Interop.WMPLib.dll
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\obj\Debug\AxInterop.WMPLib.dll
+G:\repos\TBNSMB Visual Novel Test Stuff\TBNSMB Visual Novel Test Stuff\obj\Debug\TBNSMB Visual Novel Test Stuff.csproj.ResolveComReference.cache
